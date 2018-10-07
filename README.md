@@ -1,6 +1,7 @@
-# WecodeSite
+# We-Code Digital Studio STATIC Site
+## Generated w/ Angular CLI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
 
